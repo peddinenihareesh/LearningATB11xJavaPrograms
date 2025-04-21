@@ -20,7 +20,5 @@ public class Lab037_Operators_Arithmetic_Operators {
         System.out.println(a/c); // 6.6666665
 
 
-
-
     }
 }

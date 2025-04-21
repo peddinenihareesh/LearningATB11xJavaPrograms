@@ -4,7 +4,7 @@ public class mine {
     public static void main(String[] args) {
         int num = 9;
 
-        System.out.printf("%d*1=%d\n", num,num*1);
-        System.out.printf("%d*2=%d\n", num,num*2);
+        System.out.printf("%d*1=%d\n",num,num*1);
+        System.out.printf("%d*1=%d\n",num,num*2);
     }
 }

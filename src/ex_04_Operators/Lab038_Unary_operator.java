@@ -15,5 +15,6 @@ public class Lab038_Unary_operator {
         int b = -1;
          b = b+1;
         System.out.println(b);
+
     }
 }
